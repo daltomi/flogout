@@ -2,7 +2,7 @@
 
 Old project, updated.
 
-<img src="https://git.disroot.org/daltomi/flogout/raw/branch/master/captura.png"/>
+<img src="https://github.com/daltomi/flogout/raw/master/captura.png"/>
 
-<img src="https://git.disroot.org/daltomi/flogout/raw/branch/master/captura.mp4"/>
+<img src="https://github.com/daltomi/flogout/raw/master/captura.mp4"/>
 
